@@ -22,7 +22,6 @@
 ### text: It refers to the text of the tweet
 
 # Project Pipeline:
-
 ### The various steps involved in the Machine Learning Pipeline are:
 ### Import Necessary Dependencies
 ### Read and Load the Dataset
